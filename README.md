@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently learning Python and Web Development
-- 🌱 Ungraduate of Engineering at University of Peradeniya
+- 🌱 Ungraduate in Engineering at University of Peradeniya
 - 📫 How to reach me: via email thushanths09@gmail.com 
 
 
