@@ -31,7 +31,7 @@ I enjoy building **hardware + software systems** that solve real-world problems,
 
 
 ## 🎬 Leadership & Extracurriculars
-- **Head of Marketing (2026 – Present)**  AIESEC in University of Peradeniya
+- **Vice President Marketing (2026 – Present)**  AIESEC in University of Peradeniya
 - **Production Head (2025 – 2026)**  National Showcasing Team, AIESEC Sri Lanka
 - **Vice President (2025 – 2026)**  perabeats, University of Peradeniya
 - Managed marketing & creative projects, led national teams, and executed national campaigns  
