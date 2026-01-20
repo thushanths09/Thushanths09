@@ -29,7 +29,6 @@ I enjoy building **hardware + software systems** that solve real-world problems,
 **Embedded Systems & DSP:** I2S audio acquisition, FIR/IIR filters, LMS filtering, FFT, TDoA estimation  
 **Computer Vision:** YOLO, FOMO, OpenCV real-time tracking
 
----
 
 ## 🎬 Leadership & Extracurriculars
 - **LCVP Marketing (2026 – Present)** — AIESEC in University of Peradeniya
@@ -50,4 +49,4 @@ I enjoy building **hardware + software systems** that solve real-world problems,
 - 🖥️ GitHub: [github.com/thushanths09](https://github.com/thushanths09)  
 
 ### 🌟 Fun Fact
-I enjoy blending **engineering, AI, and creativity** — building real-world systems while also producing videos, designing visuals, and leading teams. My goal is to become a **Machine Learning & AI Engineer** while continuing to grow as a creative leader.
+I enjoy blending **engineering, AI, and creativity** building real-world systems while also producing videos, designing visuals, and leading teams. My goal is to become a **Machine Learning & AI Engineer** while continuing to grow as a creative leader.
