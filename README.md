@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thushanth Sivashanthan
 
-I'm a **3rd-year Electrical & Electronic Engineering undergraduate** specializing in **embedded systems, AI, and real-time signal processing**.  
+I'm a **Final Year Electrical & Electronic Engineering undergraduate** specializing in **embedded systems, AI, and real-time signal processing**.  
 I enjoy building **hardware + software systems** that solve real-world problems, especially in **sound localization, IoT, and computer vision**.  
 
 ## 🚀 Current Projects & Focus
