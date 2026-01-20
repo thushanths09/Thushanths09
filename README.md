@@ -4,11 +4,11 @@ I'm a final-year Electrical & Electronic Engineering undergraduate passionate ab
 Currently, I’m building a real-time **sound source localization & inference system** using **ESP32**, **INMP441 microphones**, and **multimodal audio-visual ML models**.
 
 ## 🚀 What I'm Working On
-- 🎧 **Sound Localization System** (TDoA + signal processing + multimodal ML)  
-- 📡 ESP32 firmware development for synchronized audio capture (I2S stereo)  
-- 🧠 Exploring machine learning, deep learning, and computer vision  
-- 🎥 Real-time visual tracking using OpenCV / MediaPipe / lightweight models  
-- 🛠️ Developing tools and scripts for audio preprocessing + delay estimation  
+🎧 **Sound Localization System** (TDoA + signal processing + multimodal ML)  
+📡 ESP32 firmware development for synchronized audio capture (I2S stereo)  
+🧠 Exploring machine learning, deep learning, and computer vision  
+🎥 Real-time visual tracking using OpenCV / MediaPipe / lightweight models  
+🛠️ Developing tools and scripts for audio preprocessing + delay estimation  
 
 ## 🔧 Technologies & Skills
 ### **Engineering & Development**
@@ -25,7 +25,7 @@ Currently, I’m building a real-time **sound source localization & inference sy
 - Lightweight edge ML optimization  
 
 ## 🎬 Creative & Leadership Experience
-Alongside engineering, I’m passionate about **marketing, showcasing, content production, and storytelling**.
+Alongside engineering, I’m passionate about **Marketing, Showcasing, Content Production, and Storytelling**.
 
 - **Local Head of Marketing 26.27 — AIESEC in University of Peradeniya**
 - **Production Head, National Showcasing Team, AIESEC Sri Lanka**
