@@ -35,7 +35,7 @@ I enjoy building **hardware + software systems** that solve real-world problems,
 - **Production Head (2025 – 2026)**  National Showcasing Team, AIESEC Sri Lanka
 - **Vice President (2025 – 2026)**  perabeats, University of Peradeniya
 - Managed marketing & creative projects, led national teams, and executed national campaigns  
-- Nominted for **Best Marketer** and Won for **Best Showcasing Marketing** (NOVA 2024)
+- Nominted for **Best Marketer** and Won for **Best Showcasing Marker** (NOVA 2024 and NOVA 2025)
 
 ## 🌱 Currently Learning
 - Advanced **machine learning & edge AI** for real-time applications  
